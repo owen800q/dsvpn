@@ -13,7 +13,6 @@
 *.i*86
 *.idb
 *.ilk
-*.key
 *.ko
 *.la
 *.lib
@@ -35,6 +34,4 @@
 Mkfile.old
 Module.symvers
 dkms.conf
-dsvpn
-key
 modules.order
